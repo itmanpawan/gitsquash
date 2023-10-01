@@ -5,4 +5,10 @@ class Account {
 
 }
 
+getAccountDetails(){
+    return this.demo;
+}
+
+
+
 module.exports = Account;
